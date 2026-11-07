@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+**/.vs/
+**/.dotnet-local/
+build-tools/
+dist/
+*.user
+*.log

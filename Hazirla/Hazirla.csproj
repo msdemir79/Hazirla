@@ -1,0 +1,3 @@
+<Project Sdk="Microsoft.NET.Sdk"><PropertyGroup><Version>0.1.0</Version><AssemblyVersion>0.1.0.0</AssemblyVersion><FileVersion>0.1.0.0</FileVersion><Product>Hazırla</Product><Description>Yerel görsel hazırlama aracı</Description><OutputType>WinExe</OutputType><TargetFramework>net8.0-windows</TargetFramework><UseWPF>true</UseWPF><UseWindowsForms>true</UseWindowsForms><ApplicationIcon>Assets/Hazirla.ico</ApplicationIcon><Nullable>enable</Nullable><ImplicitUsings>enable</ImplicitUsings></PropertyGroup><ItemGroup><PackageReference Include="SkiaSharp" Version="2.88.9"/></ItemGroup><ItemGroup><Using Remove="System.Windows.Forms"/><Using Remove="System.Drawing"/><Resource Include="Assets/Hazirla.ico" /></ItemGroup></Project>
+
+

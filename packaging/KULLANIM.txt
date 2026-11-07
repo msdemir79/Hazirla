@@ -1,0 +1,9 @@
+Hazırla 0.1.0 — Windows x64
+
+Hazirla.exe dosyasını çalıştır. .NET kurulumu gerekmez.
+Bu klasördeki tüm dosyaları bir arada tut; yalnız EXE'yi taşımak yeterli değildir.
+X düğmesi tepsiye gizler. Tam kapatma: H ikonuna sağ tık → Çıkış.
+Aynı kullanıcı/oturumda ikinci açılış mevcut pencereyi açar.
+Ayarlar %LOCALAPPDATA%\Hazirla\settings.json konumundadır.
+Kaldırma kişisel ayarları ve oluşturulan görselleri korur.
+Bu ön sürümün kod imzası yoktur. Farklı, .NET kurulu olmayan bir bilgisayarda test henüz yapılmadı.
